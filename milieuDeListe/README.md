@@ -3,8 +3,8 @@
 ---
 
 Soit un tableau trié d'entiers liste, trouver un entier x à partir de liste tel que la valeur de
-
 abs(a[0] - x) + abs(a[1] - x) + ... + abs(a[a.length - 1] - x)
+
 est la plus petite possible (ici abs désigne la valeur absolue).
 S'il y a plusieurs réponses possibles, affichez la plus petite.
 
@@ -28,7 +28,7 @@ milieuDeListe(liste) = 7.
 
 **Entré/Sortie**
 
-- **[Temps limite] 4000ms (js)**
+- **[délai] 4000ms (js)**
 - **[entré] array.integer liste**
 
 Un tableau non vide d'entiers, triés par ordre croissant.
